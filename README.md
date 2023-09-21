@@ -15,7 +15,7 @@ You can either clone the repository to your local machine or download it as a ZI
 Use your command line or terminal to navigate to the repository's source folder:
 
 ```bash
-cd Clients-Debt-Tracker
+cd Credit-Manager
 ```
 ### 3. Installing Node Packages
 
