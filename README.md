@@ -1,6 +1,6 @@
-# Clients Debt Tracker
+# Credit-Manager
 
-Welcome to the Clients Debt Tracker, a Cross-Platform Debt Management Desktop App currently for small businesses and shops. This app is being developed using TypeScript, React, Tailwind, Rust, and Tauri.
+Welcome to Clients Debt Tracker. This is now a cross-platform desktop debt management app for small businesses and stores. This app is developed using TypeScript, React, Tailwind, Rust, and Tauri.
 
 ## Installation
 
